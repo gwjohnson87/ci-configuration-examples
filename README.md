@@ -1,6 +1,4 @@
-![MATLAB](https://github.com/gwjohnson87/ci-configuration-examples/actions/workflows/
-ci.yml/badge.svg)](https://github.com/GITHUB_USERNAME/GITHUB_REPO_NAME/actions/
-workflows/ci.yml)
+[![MATLAB](https://github.com/gwjohnson87/ci-configuration-examples/actions/workflows/ci.yml/badge.svg)](https://github.com/gwjohnson87/ci-configuration-examples/actions/workflows/ci.yml)
 
 # Continuous Integration (CI) configuration examples for MATLAB<sup>&reg;</sup>
 
